@@ -1,4 +1,4 @@
-# **Job Manager App**
+# **Job portal App**
 
 A modern, feature-rich job management platform built with **React.js**, **Supabase**, **Clerk**, **ShadCN UI**, and **Tailwind CSS**. This application provides an intuitive interface for posting, saving, and managing jobs with seamless authentication and dynamic styling.
 
